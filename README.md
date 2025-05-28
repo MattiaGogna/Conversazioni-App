@@ -1,3 +1,3 @@
-# Conversazioni Fa.Im App
+# Conversazioni Fa.Im
 
-App per chat aziendali e gestione immagini.
+App aziendale per gruppi di lavoro e gestione immagini.
